@@ -1,6 +1,6 @@
 {
   "name": "QueenMathee",
-  "version": "1",
+  "version": "1.0",
   "description": "A WhatsApp bot created by Sadaru",
   "main": "index.js",
   "scripts": {
